@@ -1,0 +1,5 @@
+### git mv
+
+renombra un archivos
+
+git mv nombre_actual nuevo_nombre
