@@ -3,3 +3,7 @@
 renombra un archivos
 
 git mv nombre_actual nuevo_nombre
+
+ejemplo
+   git mv readme.md leeme.md
+   
