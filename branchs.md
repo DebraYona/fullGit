@@ -6,3 +6,12 @@ se puede crear una rama en la rama que estemos
 
  mover de rama : git checkout nombre_rama
  ver todas las ramas: git branch
+<<<<<<< HEAD
+=======
+
+### git branch --merged
+Si deseas ver las ramas que han sido fusionadas en la rama activa
+
+###git branch --no-merged
+Para mostrar todas las ramas que contienen trabajos sin fusionar aún
+>>>>>>> ramita2
