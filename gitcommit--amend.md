@@ -9,3 +9,4 @@ al final terminaras con una sola confirmacion
 
 
 ### git reset HEAD   
+### git commit -a -m "coso"
